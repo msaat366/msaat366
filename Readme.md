@@ -1,32 +1,35 @@
-# Aditya - Frontend Developer with a focus on MERN Stack
+# [Your Name]
+## Frontend Developer | MERN Stack Enthusiast
+
+[![GitHub followers](https://img.shields.io/github/followers/msaat366.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/msaat366)
+[![GitHub](https://img.shields.io/github/followers/msaat366.svg?label=Follow&style=social)](https://github.com/msaat366)
 
 ## Introduction
-
-Hi there! I'm a student who is passionate about creating engaging and user-friendly front-end experiences. I have hands-on experience in the MERN stack and am always eager to learn more.
+As a frontend developer and a student, I am passionate about creating engaging user experiences and bringing ideas to life. I have hands-on experience in MERN stack, HTML, CSS, JavaScript, and Git. My goal is to continue honing my skills and contribute to projects that make a positive impact.
 
 ## Skills
-
-- Proficient in MERN Stack (MongoDB, Express, React, and Node.js)
-- Strong understanding of HTML, CSS, and JavaScript
-- Familiar with Git and GitHub
-- Knowledge of responsive design and cross-browser compatibility
-- Ability to write clean, maintainable, and testable code
+- MERN Stack (MongoDB, Express, React, Node.js)
+- HTML, CSS, JavaScript
+- Git, Github
+- Responsive Design, Cross-browser Compatibility
+- Clean, Maintainable, and Testable Code
 
 ## Projects
+### [Project Name]
+A full-stack web application that allows users to [Project Description]. Utilized MERN stack, Git, and Heroku for deployment.
 
-- [Project Name]: A full-stack web application that allows users to [Project Description]. Utilized MERN stack, Git, and Heroku for deployment.
-- [Project Name]: A single-page application that showcases [Project Description]. Implemented with React and CSS.
+### [Project Name]
+A single-page application that showcases [Project Description]. Implemented with React and CSS.
 
 ## Education
-
-- Currently pursuing a Bachelor of Science in Computer Science at [University Name]
+- Bachelor of Science in Computer Science, [University Name], [Graduation Year]
 
 ## Certifications
-
 - [Certification Name], [Issuing Organization], [Year]
 
-## Contact
+## Contact Me
+[![Email](https://img.shields.io/badge/Email-msaat366@gmail.com-lightgrey.svg?style=flat-square)](mailto:msaat366@gamil.com)
+[![Website](https://img.shields.io/badge/Website-[Your Website]-lightgrey.svg?style=flat-square)](https://[Your Website].com)
 
-Feel free to reach out to me via email at [Your Email Address] or connect with me on LinkedIn at [LinkedIn Profile Link].
-
-Thank you for stopping by! I look forward to connecting and collaborating with you.
+## Follow Me
+[![GitHub](https://img.shields.io/github/followers/[Your GitHub username].svg?label=Follow&style=social)](https://github.com/msaat366@gmail.com)

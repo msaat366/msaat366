@@ -15,11 +15,11 @@
 🧠 Ability to write clean, maintainable, and testable code 
 
 ## Projects
-### [Project Name]
-A full-stack web application that allows users to [Project Description]. Utilized MERN stack, Git, and Heroku for deployment.
+### Chat-app
+This chat app allows users to login with their Google or Facebook account and create private rooms for conversations. They can also send files or pictures, and even voice messages, making it the perfect way to stay connected with friends. Utilized  React, JS , Git, and Firebase for deployment.
 
-### [Project Name]
-A single-page application that showcases [Project Description]. Implemented with React and CSS.
+### Box Office
+A application that showcases [Project Description]. Implemented with React and CSS.
 
 ## Education
 🎓 BBA-BA, NMIMS, 2025

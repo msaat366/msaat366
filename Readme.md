@@ -19,7 +19,7 @@
 This chat app allows users to login with their Google or Facebook account and create private rooms for conversations. They can also send files or pictures, and even voice messages, making it the perfect way to stay connected with friends. Utilized  React, JS , Git, and Firebase for deployment.
 
 ### Box Office
-A application that showcases [Project Description]. Implemented with React and CSS.
+A application that showcases the information of movies and TV shows. Implemented with React and CSS.
 
 ## Education
 🎓 BBA-BA, NMIMS, 2025
